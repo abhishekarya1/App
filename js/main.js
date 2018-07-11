@@ -432,10 +432,10 @@ License: https://themeforest.net/licenses/standard
 				transition: 'fade',
 				transitionDuration: 1000,
 				slides: [
-					{ src: 'demo/images/image-1.jpg' },
-					{ src: 'demo/images/image-4.jpg' },
-					{ src: 'demo/images/image-7.jpg' },
-					{ src: 'demo/images/image-20.jpg' }
+					{ src: 'img/image-1.jpg' },
+					{ src: 'img/image-4.jpg' },
+					{ src: 'img/image-7.jpg' },
+					{ src: 'img/image-20.jpg' }
 				]
 			});
 		}
@@ -449,10 +449,10 @@ License: https://themeforest.net/licenses/standard
 				transition: 'zoomOut',
 				transitionDuration: 4000,
 				slides: [
-					{ src: 'demo/images/image-1.jpg' },
-					{ src: 'demo/images/image-4.jpg' },
-					{ src: 'demo/images/image-7.jpg' },
-					{ src: 'demo/images/image-20.jpg' }
+					{ src: 'img/image-1.jpg' },
+					{ src: 'img/image-4.jpg' },
+					{ src: 'img/image-7.jpg' },
+					{ src: 'img/image-20.jpg' }
 				]
 			});
 		}
@@ -466,7 +466,7 @@ License: https://themeforest.net/licenses/standard
 				transition: 'fade',
 				transitionDuration: 1000,
 				slides: [
-					{ src: 'demo/images/image-2.jpg' },
+					{ src: 'img/image-2.jpg' },
 					{ src: 'demo/video/marine.jpg',
 						video: {
 							src: [
@@ -478,9 +478,9 @@ License: https://themeforest.net/licenses/standard
 							mute: true
 						}
 					},
-					{ src: 'demo/images/image-1.jpg' },
-					{ src: 'demo/images/image-4.jpg' },
-					{ src: 'demo/images/image-7.jpg' }
+					{ src: 'img/image-1.jpg' },
+					{ src: 'img/image-4.jpg' },
+					{ src: 'img/image-7.jpg' }
 				]
 			});
 		}
@@ -490,10 +490,10 @@ License: https://themeforest.net/licenses/standard
 
 			var kenburnsDisplayBackdrops = false;
 			var kenburnsBackgrounds = [
-				{ src: 'demo/images/image-1.jpg', valign: 'top' },
-				{ src: 'demo/images/image-4.jpg', valign: 'top' },
-				{ src: 'demo/images/image-7.jpg', valign: 'top' },
-				{ src: 'demo/images/image-20.jpg', valign: 'top' }
+				{ src: 'img/image-1.jpg', valign: 'top' },
+				{ src: 'img/image-4.jpg', valign: 'top' },
+				{ src: 'img/image-7.jpg', valign: 'top' },
+				{ src: 'img/image-20.jpg', valign: 'top' }
 			];
 
 			body.vegas({
