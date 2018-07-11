@@ -1588,7 +1588,7 @@ div.pswp__caption__center {
 	-moz-animation: circle infinite .75s linear;
 	-o-animation: circle infinite .75s linear;
 	animation: circle infinite .75s linear;
-	border: 5px solid #404040;
+	border: 5px solid #FFFFFF;
 	border-top-color: rgba(0, 0, 0, .27);
 	border-right-color: rgba(0, 0, 0, .27);
 	border-bottom-color: rgba(0, 0, 0, .27);
